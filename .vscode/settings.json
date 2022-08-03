@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Creational/singleton/jars/derby.jar",
+        "Creational/singleton/jars/derbyclient.jar",
+    ]
+}
