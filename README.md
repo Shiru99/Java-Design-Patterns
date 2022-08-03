@@ -18,19 +18,21 @@
 
 ### [Prototype](#prototype)
 
-1. Create a new object by copying the original object using the clone methods.
+1. While creating a new object by copying the original object use the clone methods with existing object.
 
 
 ### [Factory Method](#factory-method)
 
 1. Define an interface for creating an object, but let subclasses decide which class to instantiate.
 2. Examples: Calender
+3. With the Factory pattern, you produce instances of implementations (Apple, Banana, Cherry, etc.) of a particular interface -- say, IFruit.
 
 
 ### [Abstract Factory](#abstract-factory)
 
-1. Provide an interface for creating a family of products, but let subclasses decide which class to instantiate.
-2. Examples: JDBC Connection
+1. Define an interface for creating a family of products, but let subclasses decide which class to instantiate.
+2. Examples: javax.xml.parsers.DocumentBuilderFactory class
+3. With the Abstract Factory pattern, you provide a way for anyone to provide their own factory -- say, IFruitFactory or an IJuiceFactory.
 
 
 ---
