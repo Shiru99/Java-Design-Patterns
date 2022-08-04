@@ -53,7 +53,8 @@
 
 ### [Composite](#composite)
 
-2. Examples: Maps
+1. Composite pattern is a partitioning design pattern and describes a group of objects that is treated the same way as a single instance of the same type of object.
+2. Examples: Maps (put, putAll)
 
 ### [Decorator](#decorator)
 
