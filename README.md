@@ -78,3 +78,12 @@
 
 
 ---
+
+
+## Java Design Patterns: Behavioral
+
+### [Chain of Responsibility](#chain-of-responsibility)
+
+1. Chain of Responsibility pattern is used to provide a way for one object to request another object to handle a request.
+2. Examples: java.util.logging.Logger
+
