@@ -109,3 +109,10 @@
 
 1. Observer pattern is used to notify multiple objects about the changes in the state of a single object. (Publish/Subscribe)
 2. Examples: java.util.Observable
+
+
+### [State](#state)
+
+1. The main idea of State pattern is to allow the object for changing its behavior without changing its class.
+2. Examples: java.util.concurrent.locks.Lock?
+
