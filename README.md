@@ -121,3 +121,9 @@
 
 1. Strategy pattern is used to solve the problem of selecting an algorithm at run time.
 2. Examples: java.util.Comparator
+
+
+### [Template](#template)
+
+1. In Template pattern, an abstract class exposes defined way(s)/template(s) to execute its methods
+2. Collections.sort
