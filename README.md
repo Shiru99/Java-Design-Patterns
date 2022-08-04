@@ -68,7 +68,12 @@
 
 ### [Flyweight](#flyweight)
 
+1. Flyweight pattern is used to reduce the number of objects created and to decrease memory footprint.
+2. Examples: HashMap
+
 ### [Proxy](#proxy)
+
+
 
 
 ---
