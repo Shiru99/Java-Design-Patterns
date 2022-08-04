@@ -97,3 +97,11 @@
 
 1. Iterator pattern is used to provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
 2. Examples: java.util.Iterator
+
+
+### [Mediator](#mediator)
+
+1. Mediator pattern is used to reduce coupling between classes that communicate with each other.
+2. Examples: java.util.Timer
+
+
