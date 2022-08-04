@@ -58,6 +58,7 @@
 
 ### [Decorator](#decorator)
 
+1. Decorator pattern allows a user to add new functionality to an existing object without altering its structure
 2. Examples: InputStream
 
 ### [Facade](#facade)
