@@ -116,3 +116,8 @@
 1. The main idea of State pattern is to allow the object for changing its behavior without changing its class.
 2. Examples: java.util.concurrent.locks.Lock?
 
+
+### [Strategy](#strategy)
+
+1. Strategy pattern is used to solve the problem of selecting an algorithm at run time.
+2. Examples: java.util.Comparator
