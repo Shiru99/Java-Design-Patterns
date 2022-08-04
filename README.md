@@ -73,7 +73,8 @@
 
 ### [Proxy](#proxy)
 
-
+1. Proxy pattern is used to provide a surrogate or placeholder for another object to control its access.
+2. Examples: ProxyFactory
 
 
 ---
