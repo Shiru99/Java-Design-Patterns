@@ -105,3 +105,7 @@
 2. Examples: java.util.Timer
 
 
+### [Observer](#observer)
+
+1. Observer pattern is used to notify multiple objects about the changes in the state of a single object. (Publish/Subscribe)
+2. Examples: java.util.Observable
