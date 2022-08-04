@@ -39,12 +39,16 @@
 
 ## Java Design Patterns: Structural
 
-### [Adapter](#adapter)
+### [Adapter/Wrapper](#Adapter/Wrapper)
 
-2. Examples: List, Streams
+1. Converts the interface of a class into another interface that a client wants.
+2. Allows two or more previously incompatible objects to interact.
+3. Examples: Arrays -> List, Streams
 
 ### [Bridge](#bridge)
 
+1. Decouple the functional abstraction from the implementation so that the two can vary independently
+2. Enables the separation of implementation from the interface & improves the extensibility.
 2. Examples: JDBC Connection
 
 ### [Composite](#composite)
