@@ -87,3 +87,8 @@
 1. Chain of Responsibility pattern is used to provide a way for one object to request another object to handle a request.
 2. Examples: java.util.logging.Logger
 
+### [Command](#command)
+
+1. Command pattern is used to encapsulate a request as an object, thereby letting you parameterize other objects with different requests, queue or log requests, and support undoable operations.
+2. A request is wrapped under an object as command and passed to invoker object. Invoker object looks for the appropriate object which can handle this command and passes the command to the corresponding object which executes the command.
+3. Examples: java.util.concurrent.ExecutorService
