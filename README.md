@@ -134,3 +134,8 @@
 1. Visitor pattern is used to separate a relatively complex set of classes from the functionality that client code directly depends upon.
 
 
+### [Interpreter](#interpreter)
+
+1. Interpreter pattern is used to evaluate language.
+2. Examples: java.util.regex.Pattern
+

@@ -1,0 +1,5 @@
+package Behavioral.interpreter.practice.model;
+
+public interface Expression {
+	public boolean interpret(String context);
+}
