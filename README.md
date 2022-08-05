@@ -139,3 +139,10 @@
 1. Interpreter pattern is used to evaluate language.
 2. Examples: java.util.regex.Pattern
 
+
+### [Momento](#momento)
+
+1. Momento pattern is used to save and restore the state of an object.
+2. Examples: serialization
+
+---
