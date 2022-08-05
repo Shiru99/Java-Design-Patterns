@@ -127,3 +127,10 @@
 
 1. In Template pattern, an abstract class exposes defined way(s)/template(s) to execute its methods
 2. Collections.sort
+
+
+### [Visitor](#visitor)
+
+1. Visitor pattern is used to separate a relatively complex set of classes from the functionality that client code directly depends upon.
+
+
